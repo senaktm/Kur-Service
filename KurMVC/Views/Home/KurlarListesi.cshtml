@@ -1,0 +1,24 @@
+﻿@model List<double>
+<table>
+    <thead>
+        <tr>
+            <td>Kur degeri</td>
+            <td>Tarih</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{ 
+            var gun = 0;
+        foreach (var item in Model)
+        {
+            gun--;
+
+            <tr>
+                <td>@item.ToString("#.##")</td>
+                <td>@DateTime.Today.AddDays(gun)</td>
+            </tr>
+
+        }
+        }
+    </tbody>
+</table>
