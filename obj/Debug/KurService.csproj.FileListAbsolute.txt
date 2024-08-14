@@ -1,0 +1,7 @@
+C:\Users\SENA\Desktop\KurService\KurService\bin\KurService.dll.config
+C:\Users\SENA\Desktop\KurService\KurService\bin\KurService.dll
+C:\Users\SENA\Desktop\KurService\KurService\bin\KurService.pdb
+C:\Users\SENA\Desktop\KurService\KurService\obj\Debug\KurService.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\KurService\KurService\obj\Debug\KurService.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\KurService\KurService\obj\Debug\KurService.dll
+C:\Users\SENA\Desktop\KurService\KurService\obj\Debug\KurService.pdb
